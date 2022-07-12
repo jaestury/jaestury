@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello there
 
-<!--
-**jaestury/jaestury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*About me*
 
-Here are some ideas to get you started:
+Anybody there? I`m J. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I`m currently learning
+    - Java
+    - Database
+    
+
+Someday I'll be a great architect. so I'd appreciate it if you looked forward to it.
+
+Until then, I wish you all good health.
+
+Thanks you!
