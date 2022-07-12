@@ -1,7 +1,5 @@
 # Hello there
 
-*About me*
-
 Anybody there? I`m J. 
 
 - I`m currently learning
