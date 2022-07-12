@@ -9,6 +9,6 @@ Anybody there? I`m J.
 
 Someday I'll be a great architect. so I'd appreciate it if you looked forward to it.
 
-Until then, I wish you all good health.
+Until then, I hope everyone stays healthy.
 
 Thanks you!
