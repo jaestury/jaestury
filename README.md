@@ -23,5 +23,3 @@ I`m jaehyeon Kim.
 
 ### My blog
 https://velog.io/@rlawogus73
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rla_wogus@naver.com)](https://github.com/rla_wogus@naver.com/github-readme-stats)
