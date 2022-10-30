@@ -22,4 +22,4 @@ I`m jaehyeon Kim.
     
 
 ### My blog
-[Velog](https://velog.io/@rlawogus73)
+[velog](https://velog.io/@rlawogus73)
